@@ -1,2 +1,2 @@
 # Coding-with-waqar
-Author - Waqar Ahmed
+Author - Waqar Ahmed (Coding With Waqar)
